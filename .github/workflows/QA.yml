@@ -1,4 +1,4 @@
-name: Java BRANCH PROD
+name: BRANCH QA
 
 on:
     pull_request:
